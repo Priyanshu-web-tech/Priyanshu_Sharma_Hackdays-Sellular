@@ -1,4 +1,26 @@
-*{
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+* {
   margin: 0;
   padding: 0;
+  background-color: #000000;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+body {
+  height: 100vh;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
 }
