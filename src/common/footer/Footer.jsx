@@ -7,18 +7,9 @@ const Footer = () => {
       <footer>
         <div className='container grid2'>
           <div className='box'>
-            <h1>Bonik</h1>
+            <h1>Market Hive</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
-            <div className='icon d_flex'>
-              <div className='img d_flex'>
-                <i class='fa-brands fa-google-play'></i>
-                <span>Google Play</span>
-              </div>
-              <div className='img d_flex'>
-                <i class='fa-brands fa-app-store-ios'></i>
-                <span>App Store</span>
-              </div>
-            </div>
+            
           </div>
 
           <div className='box'>
@@ -44,9 +35,9 @@ const Footer = () => {
           <div className='box'>
             <h2>Contact Us</h2>
             <ul>
-              <li>70 Washington Square South, New York, NY 10012, United States </li>
-              <li>Email: uilib.help@gmail.com</li>
-              <li>Phone: +1 1123 456 780</li>
+              <li>India </li>
+              <li>Email: xyz@gmail.com</li>
+              <li>Phone: +000 000 000</li>
             </ul>
           </div>
         </div>
